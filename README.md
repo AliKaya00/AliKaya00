@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AliKaya00
+- 👋 Hi, I’m AliKaya
 - 👀 I’m interested in Quality Assurance
-- 🌱 I’m currently working on Java,Gauge,Selenium,Appium
+- 🌱 I’m currently working on Java,Gauge,Selenium,and Appium
 - 📫 How to reach me https://www.linkedin.com/in/alikaya000/
 
 <!---
